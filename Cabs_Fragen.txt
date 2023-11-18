@@ -1,0 +1,64 @@
+Tell me 3 Operating Systems;Linux Windows IOS
+Are there running multible programms at the same time in an operating system;Yes
+What are operating systems;They let the user communicate with the hardware
+What is a operating system good for;It manges the resoursces for the process that wants to acces a part of the hardware 
+Tell me 5 Keyfeature of an operating system; Parrallel programm execution Memory management File systems Peripherals Computers Security
+Why to stduy Operating Systems;They hide a way the complexity of hardware
+Is it important as an developer to unterstand what happens behind the scenes of an operating system;Yes
+What are peripherals;Input Output Storage Devices
+What is the memory Hierarchy;1) Registers 2) Cache 3) Main Memory 4) Hard Disk(HDD/SSD) 5) Tape
+What is a root system;Where every file/directory comes from the root path
+What are the main benifits of grounping Files;Grouping Files are organizied Files on certiain criteria
+What does rwx stand for;read write execute 
+Does rwx also exsit in windows;yes but modifyed
+What does a CPU stand for and what does it do;It stands for Central Processing Unit and it executes 
+What does a RAM stand for and what does it do; It stands for Random Acess Memory and Programms are loaded to the RAM before Execution 
+What type of disks do you know;HDD and SSD 
+How man Computer Buses are there;3
+Does every CPU have an instruction set;Yes
+What are the two main Instruction sets;X86 and ARM 
+What does CISC stand for;Complex Instruction Set Computer
+What does RISC stand for;Reduced Instruction Set Computer 
+What is the combination of the control unit ALU and registers called;core processing power 
+What is the peropes of the Control U;nit;It is responsible for the sequential executuion of the programm that is located in the ram Decodes Machine iNstructions
+Where are Registers located;cpu
+What are register;very small memory unit on the cpu 
+What do register do;Keeping operands and results
+What is the Programm Counter;Containes the adress of the next instruction in RAM
+What is the INstruction Register;Containes the instruction to be executed right now
+What is the Programm Status word(PSW);Status of the last calculation (overflow,negativ,zero)
+What is the Stack Pointer;Points to the begin of the current stack memory
+What is the ALU;The ALU Performance Calulations and is controlled by the Control Unit
+What is the Von-Neuman Cycle;Fetch Decode Fetch operands Executre Write Back
+Is the the data lost when the RAM has no power;yes
+What is an HDD;Hard Disk Drives
+What is an SSD;Solid State Disks
+What is faster Non volatile memory or SSD;Non volatile memory
+What is faster SSD or HDD;SSD
+Where should you install windows;SDD
+What is the Data Bus used for;Read or Write of Data
+What is the Adress Bus used for;It sends adress to the ram 
+Is the Adress Bus Unidirectional or Bidirectional;Unidirectional
+What is Unidirectional;It goes one way
+What is Bidirectional;It goes both ways
+What are the two modes of and OS;Kernel and User Mode
+What os the user mode used for;Software
+What is the Kernel Mode used for;Hardware
+Why to modes;Security and Parts of the Instructions set must be protected
+What is the Assembler Command for "Load Adress";LA
+What is the Assembler Command for "Load Interger";LIT
+How to store something on a stack in Assembler;STO
+How to add two varibales together;ADD
+How to switch in to Kernel mode;trap
+What does POSIX stand for;Portable Operating System Interface
+How to get information on a POSIX Systemcall;man <system_call>
+Has POSIX diffrent Systemcalls then Win32;Yes
+What is and IRQ;Interrupt Request
+What does an IRQ do;It request an interrupt but doesn't interrupt the execution
+WHat is an IRS;Interrupter Service Routine
+What are the two diffrent interrupt types;Hardware and Software interrupt
+What is an Hardware interrupt;specific lines / pins tells the Cpu to interrupt the current process
+Can an masked interrupt be disabled;yes
+Can a non masked interrupt be disabled;no
+What is an non masked interrupt used for;error handling
+
